@@ -52,7 +52,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|136300000|80175363|ca6592de-983b-4ed2-9d0d-5b8925e6252d|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -478,7 +483,9 @@
     "meta": {
       "version": 4
     },
-    "net_colors": null,
+    "net_colors": {
+      "GND": "rgb(255, 0, 0)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": []
   },
