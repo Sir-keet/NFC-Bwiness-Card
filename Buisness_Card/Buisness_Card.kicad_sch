@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "cad039e0-436e-4f4e-bf6f-d3597a265a0b")
 	(paper "A4")
+	(title_block
+		(title "NFC Buisness Card")
+		(date "2026-02-10")
+		(rev "1")
+		(company "Johnathon L Bales")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers
